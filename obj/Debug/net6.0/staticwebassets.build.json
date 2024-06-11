@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "YqhDgpkXc9SmJ8tDeoto+DaivLwxDPPUYxhEZBIMWWQ=",
+  "Source": "TestTask",
+  "BasePath": "_content/TestTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestTask\\wwwroot",
+      "Source": "TestTask",
+      "ContentRoot": "C:\\Users\\superUser\\Desktop\\Learn\\SharpProject\\AspNet\\TestTask\\wwwroot\\",
+      "BasePath": "_content/TestTask",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\superUser\\Desktop\\Learn\\SharpProject\\AspNet\\TestTask\\wwwroot\\index.html",
+      "SourceId": "TestTask",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\superUser\\Desktop\\Learn\\SharpProject\\AspNet\\TestTask\\wwwroot\\",
+      "BasePath": "_content/TestTask",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\superUser\\Desktop\\Learn\\SharpProject\\AspNet\\TestTask\\wwwroot\\script.js",
+      "SourceId": "TestTask",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\superUser\\Desktop\\Learn\\SharpProject\\AspNet\\TestTask\\wwwroot\\",
+      "BasePath": "_content/TestTask",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ]
+}

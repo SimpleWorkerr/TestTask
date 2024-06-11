@@ -1,0 +1,14 @@
+version: "1.0"
+services:
+  postgres_db:
+    image: "postgres"
+    container_name: "fast-postgres"
+    environment:
+      - POSTGRES_PASSWORD=mysecretpassword
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+
+networks:
+  default:
+    driver: bridge
